@@ -1,0 +1,5 @@
+50
+20 0 Sturovo nam.
+35 0 Mestsky park
+10 20 Dargovska
+40 20 Nemocnica
