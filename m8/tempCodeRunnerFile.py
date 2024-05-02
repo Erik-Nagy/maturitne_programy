@@ -1,1 +1,0 @@
-vyber_jedla
