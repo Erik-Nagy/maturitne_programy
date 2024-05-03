@@ -35,7 +35,7 @@ for i in range(1, vyska+1):
 
 celkovyPocet=sirka*vyska
 preklop=True
-strana=10
+strana=20
 xz=250-strana*sirka/2
 yz=250-strana*vyska/2
 
